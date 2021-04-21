@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ELCOT\source\repos\switch_ex\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
